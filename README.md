@@ -1,5 +1,6 @@
 ## Hello, I'm a Graphic Designer & Web Developer.
 
+- 📍 Helsingborg, Sweden.
 - 📚 Currently studying Front End Development at Medieinstitutet in Malmö, Sweden.
 - 💼 Currently an intern at ID Kommunikation in Malmö, Sweden.
 
