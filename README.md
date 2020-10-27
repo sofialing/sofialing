@@ -3,17 +3,7 @@
 <!--START_SECTION:waka-->
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-89-blue)
 
-**🐱 My Github Data** 
-
-> 🏆 443 Contributions in the Year 2020
- > 
-> 📦 180.6 kB Used in Github's Storage 
- > 
-> 💼 Opted to Hire
- > 
-> 📜 15 Public Repositories
- > 
-> 🔑 9 Private Repositories 
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-688072%20lines%20of%20code-blue)
 
 **I'm an Early 🐤** 
 
@@ -41,23 +31,12 @@ Sunday       34 commits     █░░░░░░░░░░░░░░░░�
 📊 **This Week I Spent My Time On** 
 
 ```text
-⌚︎ Time Zone: Europe/Stockholm
-
 💬 Programming Languages: 
 Markdown                 24 mins             ███████████████░░░░░░░░░░   60.08% 
 JavaScript               11 mins             ███████░░░░░░░░░░░░░░░░░░   28.76% 
 YAML                     4 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   10.74% 
 SCSS                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.33% 
 CSS                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.04%
-
-🔥 Editors: 
-VS Code                  40 mins             █████████████████████████   100.0%
-
-🐱‍💻 Projects: 
-gh-readme                26 mins             ████████████████░░░░░░░░░   65.9% 
-Unknown Project          11 mins             ███████░░░░░░░░░░░░░░░░░░   28.6% 
-sofialing-main           1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   4.92% 
-akollberg-finsnickeri-v2 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.57%
 
 💻 Operating System: 
 Mac                      40 mins             █████████████████████████   100.0%
@@ -75,10 +54,6 @@ CSS                      2 repos             ██░░░░░░░░░�
 
 ```
 
-
-**Timeline**
-
-![Chart not found](https://github.com/sofialing/sofialing/blob/master/charts/bar_graph.png) 
 
 
 <!--END_SECTION:waka-->
