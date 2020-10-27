@@ -1,4 +1,7 @@
-### Hi there 👋
+## Hello, I'm a Graphic Designer & Web Developer.
+
+- 📚 I'm currently studying Front End Development at Medieinstitutet in Malmö, Sweden.
+- 💼 I'm currently an intern at ID Kommunikation in Malmö, Sweden.
 
 ##### Weekly development breakdown
 <!--START_SECTION:waka-->
