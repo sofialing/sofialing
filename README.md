@@ -30,6 +30,8 @@
 ##### Weekly development breakdown
 <!--START_SECTION:waka-->
 ```text
+Week: 19 October, 2020 - 26 October, 2020
+
 Markdown     24 mins         ███████████████░░░░░░░░░░   60.08 % 
 JavaScript   11 mins         ███████▒░░░░░░░░░░░░░░░░░   28.76 % 
 YAML         4 mins          ██▓░░░░░░░░░░░░░░░░░░░░░░   10.74 % 
