@@ -30,7 +30,7 @@
 ##### Weekly development breakdown
 <!--START_SECTION:waka-->
 ```text
-Week: 28 October, 2020 - 04 November, 2020
+Week: 29 October, 2020 - 05 November, 2020
 
 SCSS         16 hrs 50 mins  █████████████▓░░░░░░░░░░░   55.19 % 
 PHP          9 hrs 26 mins   ███████▓░░░░░░░░░░░░░░░░░   30.93 % 
