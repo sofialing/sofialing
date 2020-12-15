@@ -30,7 +30,7 @@
 ##### Weekly development breakdown
 <!--START_SECTION:waka-->
 ```text
-Week: 06 December, 2020 - 13 December, 2020
+Week: 07 December, 2020 - 14 December, 2020
 
 JavaScript   11 hrs 48 mins  ████████████▒░░░░░░░░░░░░   48.83 % 
 PHP          7 hrs 34 mins   ███████▓░░░░░░░░░░░░░░░░░   31.29 % 
