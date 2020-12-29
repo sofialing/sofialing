@@ -2,7 +2,6 @@
 
 - 📍 Helsingborg, Sweden.
 - 📚 Currently studying Front End Development at Medieinstitutet in Malmö, Sweden.
-- 💼 Currently an intern at ID Kommunikation in Malmö, Sweden.
 
 ##### Code
 ![HTML5](https://img.shields.io/badge/HTML-072326.svg?&style=for-the-badge&logo=HTML5&logoColor=white)
