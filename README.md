@@ -29,7 +29,7 @@
 ##### Weekly development breakdown
 <!--START_SECTION:waka-->
 ```text
-Week: 30 December, 2020 - 06 January, 2021
+Week: 31 December, 2020 - 07 January, 2021
 
 JavaScript   14 hrs 31 mins  ████████████████████▒░░░░   81.24 % 
 SCSS         2 hrs 19 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   12.96 % 
