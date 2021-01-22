@@ -29,7 +29,7 @@
 ##### Weekly development breakdown
 <!--START_SECTION:waka-->
 ```text
-Week: 13 January, 2021 - 20 January, 2021
+Week: 14 January, 2021 - 21 January, 2021
 
 JavaScript   22 hrs 56 mins  ████████████████████▒░░░░   81.36 % 
 PHP          3 hrs 11 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   11.29 % 
