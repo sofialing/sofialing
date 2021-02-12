@@ -29,7 +29,7 @@
 ##### Weekly development breakdown
 <!--START_SECTION:waka-->
 ```text
-Week: 03 February, 2021 - 10 February, 2021
+Week: 04 February, 2021 - 11 February, 2021
 
 SCSS         13 hrs 7 mins   ██████████▓░░░░░░░░░░░░░░   43.13 % 
 PHP          9 hrs 8 mins    ███████▓░░░░░░░░░░░░░░░░░   30.03 % 
