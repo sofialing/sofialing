@@ -29,13 +29,13 @@
 ##### Weekly development breakdown
 <!--START_SECTION:waka-->
 ```text
-Week: 12 February, 2021 - 19 February, 2021
+Week: 18 March, 2021 - 25 March, 2021
 
-SCSS         11 hrs 53 mins  ███████████▓░░░░░░░░░░░░░   46.89 % 
-PHP          9 hrs           █████████░░░░░░░░░░░░░░░░   35.52 % 
-JavaScript   3 hrs 37 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   14.31 % 
-JSON         24 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.61 % 
-Other        11 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.73 % 
+SCSS         14 hrs 30 mins  ██████████▒░░░░░░░░░░░░░░   41.10 % 
+JavaScript   10 hrs 30 mins  ███████▒░░░░░░░░░░░░░░░░░   29.76 % 
+PHP          7 hrs 7 mins    █████░░░░░░░░░░░░░░░░░░░░   20.18 % 
+Twig         2 hrs 43 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   07.72 % 
+JSON         24 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.18 % 
 ```
 <!--END_SECTION:waka-->
 
