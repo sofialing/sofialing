@@ -29,7 +29,7 @@
 ##### Weekly development breakdown
 <!--START_SECTION:waka-->
 ```text
-Week: 05 April, 2021 - 12 April, 2021
+Week: 06 April, 2021 - 13 April, 2021
 
 SCSS         14 hrs 30 mins  ██████████▒░░░░░░░░░░░░░░   41.10 % 
 JavaScript   10 hrs 30 mins  ███████▒░░░░░░░░░░░░░░░░░   29.76 % 
