@@ -23,24 +23,6 @@
 ![Illustrator](https://img.shields.io/badge/Adobe_Illustrator-072326.svg?&style=for-the-badge&logo=Adobe-Illustrator&logoColor=white)
 
 
-
-
-
-##### Weekly development breakdown
-<!--START_SECTION:waka-->
-```text
-Week: 24 April, 2021 - 01 May, 2021
-
-SCSS         14 hrs 30 mins  ██████████▒░░░░░░░░░░░░░░   41.10 % 
-JavaScript   10 hrs 30 mins  ███████▒░░░░░░░░░░░░░░░░░   29.76 % 
-PHP          7 hrs 7 mins    █████░░░░░░░░░░░░░░░░░░░░   20.18 % 
-Twig         2 hrs 43 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   07.72 % 
-JSON         24 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.18 % 
-```
-<!--END_SECTION:waka-->
-
-
-
 <!--
 **sofialing/sofialing** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
