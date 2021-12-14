@@ -27,7 +27,7 @@
 ##### 📊 This week I spent my time on
 <!--START_SECTION:waka-->
 ```text
-Week: 06 December, 2021 - 12 December, 2021
+Week: 07 December, 2021 - 13 December, 2021
 
 TypeScript   15 hrs 12 mins  ████████████▒░░░░░░░░░░░░   49.14 % 
 SCSS         7 hrs 35 mins   ██████░░░░░░░░░░░░░░░░░░░   24.51 % 
