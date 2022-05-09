@@ -28,7 +28,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 30 April 2022 - To: 07 May 2022
+From: 01 May 2022 - To: 08 May 2022
 
 TypeScript   18 hrs 15 mins  █████████████████████░░░░   83.91 %
 JSON         1 hr 11 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.45 %
