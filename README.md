@@ -28,13 +28,12 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 26 June 2022 - To: 03 July 2022
+From: 28 June 2022 - To: 05 July 2022
 
-TypeScript   20 hrs 56 mins  █████████████████████░░░░   84.46 %
-CSS          2 hrs 31 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.21 %
-JSON         1 hr 4 mins     █░░░░░░░░░░░░░░░░░░░░░░░░   04.34 %
-JavaScript   9 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.66 %
-Other        4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.31 %
+TypeScript   22 hrs 43 mins  ██████████████████▒░░░░░░   73.16 %
+JSON         5 hrs 49 mins   ████▓░░░░░░░░░░░░░░░░░░░░   18.73 %
+CSS          2 hrs 16 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   07.30 %
+Other        8 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.46 %
 ```
 
 <!--END_SECTION:waka-->
