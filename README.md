@@ -23,7 +23,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 10 December 2022 - To: 17 December 2022
+From: 11 December 2022 - To: 18 December 2022
 
 TypeScript       17 hrs 47 mins  ███████████████████▒░░░░░   77.38 %
 MDX              3 hrs 29 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   15.18 %
