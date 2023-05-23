@@ -23,7 +23,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 13 May 2023 - To: 20 May 2023
+From: 14 May 2023 - To: 21 May 2023
 
 TypeScript   9 hrs 34 mins   ██████████████████▒░░░░░░   73.82 %
 JSON         2 hrs 26 mins   ████▓░░░░░░░░░░░░░░░░░░░░   18.84 %
