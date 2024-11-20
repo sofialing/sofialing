@@ -23,12 +23,12 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 10 November 2024 - To: 17 November 2024
+From: 11 November 2024 - To: 18 November 2024
 
-TypeScript   21 hrs 13 mins  ████████████████████████░   96.61 %
-JSON         36 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.78 %
-Other        4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.31 %
-YAML         4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.30 %
+TypeScript   20 hrs 20 mins  ████████████████████████▒   96.74 %
+JSON         36 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.90 %
+YAML         4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.32 %
+Other        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 %
 ```
 
 <!--END_SECTION:waka-->
