@@ -23,10 +23,10 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 02 July 2025 - To: 09 July 2025
+From: 03 July 2025 - To: 10 July 2025
 
-TypeScript   6 hrs 3 mins    ███████████████████████░░   91.65 %
-JSON         33 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.35 %
+TypeScript   2 hrs 28 mins   ██████████████████████░░░   88.56 %
+JSON         19 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.44 %
 ```
 
 <!--END_SECTION:waka-->
