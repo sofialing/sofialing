@@ -23,13 +23,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 12 February 2026 - To: 19 February 2026
+From: 13 February 2026 - To: 20 February 2026
 
-TypeScript   18 hrs 31 mins        █████████████████████░░░░   84.57 %
-Docker       1 hr 28 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.75 %
-YAML         58 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   04.46 %
-Other        27 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.11 %
-JSON         20 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.56 %
+TypeScript   21 hrs 46 mins        █████████████████████▓░░░   86.29 %
+Docker       1 hr 28 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.86 %
+YAML         58 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   03.87 %
+Other        28 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.87 %
+JSON         19 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.30 %
 ```
 
 <!--END_SECTION:waka-->
